@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Loop/StatusDot">
+<circle id="Pulse" opacity="0.6" cx="12" cy="12" r="6" fill="#2DBE7A"/>
+<circle id="Dot" cx="12" cy="12" r="6" fill="#2DBE7A"/>
+</g>
+</svg>

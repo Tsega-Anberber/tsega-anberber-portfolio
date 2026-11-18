@@ -1,0 +1,34 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="522" height="418" viewBox="0 0 522 418" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock" filter="url(#filter0_d_0_145)">
+<rect x="40" y="22" width="442" height="338" rx="20.8" fill="white"/>
+<rect x="40.65" y="22.65" width="440.7" height="336.7" rx="20.15" stroke="#E3E8F1" stroke-width="1.3"/>
+<rect id="Bar" x="40" y="22" width="442" height="44.2" fill="#F7F9FC"/>
+<circle id="Dot" cx="63.4" cy="44.1" r="5.2" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="81.6" cy="44.1" r="5.2" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="99.8" cy="44.1" r="5.2" fill="#E3E8F1"/>
+<rect id="H1" x="71.2" y="100" width="208" height="20.8" rx="10.4" fill="#0D1322"/>
+<rect id="H2" x="71.2" y="133.8" width="156" height="20.8" rx="10.4" fill="#0D1322"/>
+<rect id="Sub" x="71.2" y="175.4" width="195" height="10.4" rx="5.2" fill="#E3E8F1"/>
+<rect id="Sub2" x="71.2" y="196.2" width="156" height="10.4" rx="5.2" fill="#E3E8F1"/>
+<rect id="CTA" x="71.2" y="224.8" width="98.8" height="33.8" rx="16.9" fill="#3D6BFF"/>
+<rect id="Img" x="300" y="92.2" width="150.8" height="169" rx="20.8" fill="#E7EEFF"/>
+<rect id="Block" x="320.8" y="120.8" width="109.2" height="109.2" rx="15.6" fill="#0D1322"/>
+<rect id="Stat" x="71.2" y="287.2" width="117" height="52" rx="13" fill="#F7F9FC"/>
+<rect id="Stat Line" opacity="0.8" x="84.2" y="302.8" width="52" height="10.4" rx="5.2" fill="#0D1322"/>
+<rect id="Stat_2" x="198.6" y="287.2" width="117" height="52" rx="13" fill="#F7F9FC"/>
+<rect id="Stat Line_2" opacity="0.8" x="211.6" y="302.8" width="52" height="10.4" rx="5.2" fill="#0D1322"/>
+<rect id="Stat_3" x="326" y="287.2" width="117" height="52" rx="13" fill="#F7F9FC"/>
+<rect id="Stat Line_3" opacity="0.8" x="339" y="302.8" width="52" height="10.4" rx="5.2" fill="#0D1322"/>
+</g>
+<defs>
+<filter id="filter0_d_0_145" x="0" y="0" width="522" height="418" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="18"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.07 0 0 0 0 0.13 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_145"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_145" result="shape"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="340" height="260" viewBox="0 0 340 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock">
+<rect x="0.5" y="0.5" width="339" height="259" rx="15.5" fill="white"/>
+<rect x="0.5" y="0.5" width="339" height="259" rx="15.5" stroke="#E3E8F1"/>
+<rect id="Bar" width="340" height="34" fill="#F7F9FC"/>
+<circle id="Dot" cx="18" cy="17" r="4" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="32" cy="17" r="4" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="46" cy="17" r="4" fill="#E3E8F1"/>
+<rect id="H1" x="24" y="60" width="160" height="16" rx="8" fill="#0D1322"/>
+<rect id="H2" x="24" y="86" width="120" height="16" rx="8" fill="#0D1322"/>
+<rect id="Sub" x="24" y="118" width="150" height="8" rx="4" fill="#E3E8F1"/>
+<rect id="Sub2" x="24" y="134" width="120" height="8" rx="4" fill="#E3E8F1"/>
+<rect id="CTA" x="24" y="156" width="76" height="26" rx="13" fill="#3D6BFF"/>
+<rect id="Img" x="200" y="54" width="116" height="130" rx="16" fill="#E7EEFF"/>
+<rect id="Block" x="216" y="76" width="84" height="84" rx="12" fill="#0D1322"/>
+<rect id="Stat" x="24" y="204" width="90" height="40" rx="10" fill="#F7F9FC"/>
+<rect id="Stat Line" opacity="0.8" x="34" y="216" width="40" height="8" rx="4" fill="#0D1322"/>
+<rect id="Stat_2" x="122" y="204" width="90" height="40" rx="10" fill="#F7F9FC"/>
+<rect id="Stat Line_2" opacity="0.8" x="132" y="216" width="40" height="8" rx="4" fill="#0D1322"/>
+<rect id="Stat_3" x="220" y="204" width="90" height="40" rx="10" fill="#F7F9FC"/>
+<rect id="Stat Line_3" opacity="0.8" x="230" y="216" width="40" height="8" rx="4" fill="#0D1322"/>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="320" height="580" viewBox="0 0 320 580" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Phone Profile" filter="url(#filter0_d_0_307)">
+<rect x="40" y="22" width="240" height="500" rx="40" fill="white"/>
+<rect x="40.75" y="22.75" width="238.5" height="498.5" rx="39.25" stroke="#E3E8F1" stroke-width="1.5"/>
+<rect id="Notch" x="125" y="36" width="70" height="18" rx="9" fill="#0D1322"/>
+<rect id="Title" opacity="0.9" x="62" y="80" width="90" height="10" rx="5" fill="#0D1322"/>
+<rect id="Sub" x="62" y="98" width="60" height="8" rx="4" fill="#E3E8F1"/>
+<path id="Ring BG" d="M220 190C220 223.137 193.137 250 160 250C126.863 250 100 223.137 100 190C100 156.863 126.863 130 160 130C193.137 130 220 156.863 220 190ZM110.8 190C110.8 217.172 132.828 239.2 160 239.2C187.172 239.2 209.2 217.172 209.2 190C209.2 162.828 187.172 140.8 160 140.8C132.828 140.8 110.8 162.828 110.8 190Z" fill="#EFF2F7"/>
+<path id="Ring" d="M160 130C172.671 130 185.016 134.011 195.267 141.459C205.518 148.907 213.148 159.408 217.063 171.459C220.979 183.51 220.979 196.49 217.063 208.541C213.148 220.592 205.518 231.093 195.267 238.541C185.016 245.989 172.671 250 160 250C147.329 250 134.984 245.989 124.733 238.541C114.482 231.093 106.852 220.592 102.937 208.541C99.0211 196.49 99.0211 183.51 102.937 171.459L113.208 174.796C109.997 184.678 109.997 195.322 113.208 205.204C116.419 215.085 122.675 223.697 131.081 229.804C139.487 235.911 149.61 239.2 160 239.2C170.39 239.2 180.513 235.911 188.919 229.804C197.325 223.697 203.581 215.085 206.792 205.204C210.003 195.322 210.003 184.678 206.792 174.796C203.581 164.915 197.325 156.303 188.919 150.196C180.513 144.089 170.39 140.8 160 140.8V130Z" fill="#3D6BFF"/>
+<rect id="Row" x="60" y="290" width="200" height="52" rx="16" fill="#F7F9FC"/>
+<rect id="Row Bar" opacity="0.8" x="74" y="306" width="90" height="8" rx="4" fill="#0D1322"/>
+<rect id="Row_2" x="60" y="354" width="200" height="52" rx="16" fill="#F7F9FC"/>
+<rect id="Row Bar_2" opacity="0.8" x="74" y="370" width="90" height="8" rx="4" fill="#0D1322"/>
+<rect id="Row_3" x="60" y="418" width="200" height="52" rx="16" fill="#F7F9FC"/>
+<rect id="Row Bar_3" opacity="0.8" x="74" y="434" width="90" height="8" rx="4" fill="#0D1322"/>
+</g>
+<defs>
+<filter id="filter0_d_0_307" x="0" y="0" width="320" height="580" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="18"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.07 0 0 0 0 0.13 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_307"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_307" result="shape"/>
+</filter>
+</defs>
+</svg>

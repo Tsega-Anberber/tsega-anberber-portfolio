@@ -1,0 +1,28 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="578" height="442" viewBox="0 0 578 442" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock">
+<rect x="0.85" y="0.85" width="576.3" height="440.3" rx="26.35" fill="white"/>
+<rect x="0.85" y="0.85" width="576.3" height="440.3" rx="26.35" stroke="#E3E8F1" stroke-width="1.7"/>
+<rect id="Bar" width="578" height="57.8" fill="#F7F9FC"/>
+<circle id="Dot" cx="30.6" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="54.4" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="78.2" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<rect id="Hero" y="57.8" width="578" height="221" fill="#ECEBFF"/>
+<rect id="H1" x="40.8" y="95.2" width="204" height="23.8" rx="11.9" fill="#0D1322"/>
+<rect id="H2" x="40.8" y="132.6" width="153" height="23.8" rx="11.9" fill="#0D1322"/>
+<rect id="CTA" x="40.8" y="180.2" width="102" height="37.4" rx="18.7" fill="#3D6BFF"/>
+<rect id="Body" x="272" y="170" width="255" height="57.8" rx="27.2" fill="#0D1322"/>
+<rect id="Roof" x="323" y="136" width="153" height="57.8" rx="23.8" fill="#243049"/>
+<circle id="Wheel" cx="324.7" cy="229.5" r="22.1" fill="#3D6BFF"/>
+<circle id="Wheel 2" cx="481.1" cy="229.5" r="22.1" fill="#3D6BFF"/>
+<rect id="Filter" x="27.2" y="255" width="523.6" height="61.2" rx="30.6" fill="white"/>
+<rect id="Filter Item" x="51" y="278.8" width="102" height="13.6" rx="6.8" fill="#E3E8F1"/>
+<rect id="Filter Item_2" x="207.4" y="278.8" width="102" height="13.6" rx="6.8" fill="#E3E8F1"/>
+<rect id="Filter Item_3" x="363.8" y="278.8" width="102" height="13.6" rx="6.8" fill="#E3E8F1"/>
+<rect id="Car Card" x="27.2" y="333.2" width="170" height="95.2" rx="20.4" fill="#F7F9FC"/>
+<rect id="Car Line" opacity="0.8" x="40.8" y="353.6" width="102" height="11.9" rx="5.1" fill="#0D1322"/>
+<rect id="Car Card_2" x="210.8" y="333.2" width="170" height="95.2" rx="20.4" fill="#F7F9FC"/>
+<rect id="Car Line_2" opacity="0.8" x="224.4" y="353.6" width="102" height="11.9" rx="5.1" fill="#0D1322"/>
+<rect id="Car Card_3" x="394.4" y="333.2" width="170" height="95.2" rx="20.4" fill="#F7F9FC"/>
+<rect id="Car Line_3" opacity="0.8" x="408" y="353.6" width="102" height="11.9" rx="5.1" fill="#0D1322"/>
+</g>
+</svg>

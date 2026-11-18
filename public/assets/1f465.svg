@@ -1,0 +1,28 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="320" height="580" viewBox="0 0 320 580" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Phone Favorites" filter="url(#filter0_d_0_377)">
+<rect x="40" y="22" width="240" height="500" rx="40" fill="white"/>
+<rect x="40.75" y="22.75" width="238.5" height="498.5" rx="39.25" stroke="#E3E8F1" stroke-width="1.5"/>
+<rect id="Notch" x="125" y="36" width="70" height="18" rx="9" fill="#0D1322"/>
+<rect id="Title" opacity="0.9" x="62" y="80" width="90" height="10" rx="5" fill="#0D1322"/>
+<rect id="Sub" x="62" y="98" width="60" height="8" rx="4" fill="#E3E8F1"/>
+<rect id="Image" x="60" y="128" width="200" height="130" rx="24" fill="#ECEBFF"/>
+<circle id="Sun" cx="208" cy="164" r="18" fill="#3D6BFF"/>
+<rect id="Row" x="60" y="290" width="200" height="52" rx="16" fill="#F7F9FC"/>
+<rect id="Row Bar" opacity="0.8" x="74" y="306" width="90" height="8" rx="4" fill="#0D1322"/>
+<rect id="Row_2" x="60" y="354" width="200" height="52" rx="16" fill="#F7F9FC"/>
+<rect id="Row Bar_2" opacity="0.8" x="74" y="370" width="90" height="8" rx="4" fill="#0D1322"/>
+<rect id="Row_3" x="60" y="418" width="200" height="52" rx="16" fill="#F7F9FC"/>
+<rect id="Row Bar_3" opacity="0.8" x="74" y="434" width="90" height="8" rx="4" fill="#0D1322"/>
+</g>
+<defs>
+<filter id="filter0_d_0_377" x="0" y="0" width="320" height="580" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="18"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.07 0 0 0 0 0.13 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_377"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_377" result="shape"/>
+</filter>
+</defs>
+</svg>

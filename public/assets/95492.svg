@@ -1,0 +1,28 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="340" height="260" viewBox="0 0 340 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock">
+<rect x="0.5" y="0.5" width="339" height="259" rx="15.5" fill="white"/>
+<rect x="0.5" y="0.5" width="339" height="259" rx="15.5" stroke="#E3E8F1"/>
+<rect id="Bar" width="340" height="34" fill="#F7F9FC"/>
+<circle id="Dot" cx="18" cy="17" r="4" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="32" cy="17" r="4" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="46" cy="17" r="4" fill="#E3E8F1"/>
+<rect id="Hero" y="34" width="340" height="130" fill="#ECEBFF"/>
+<rect id="H1" x="24" y="56" width="120" height="14" rx="7" fill="#0D1322"/>
+<rect id="H2" x="24" y="78" width="90" height="14" rx="7" fill="#0D1322"/>
+<rect id="CTA" x="24" y="106" width="60" height="22" rx="11" fill="#3D6BFF"/>
+<rect id="Body" x="160" y="100" width="150" height="34" rx="16" fill="#0D1322"/>
+<rect id="Roof" x="190" y="80" width="90" height="34" rx="14" fill="#243049"/>
+<circle id="Wheel" cx="191" cy="135" r="13" fill="#3D6BFF"/>
+<circle id="Wheel 2" cx="283" cy="135" r="13" fill="#3D6BFF"/>
+<rect id="Filter" x="16" y="150" width="308" height="36" rx="18" fill="white"/>
+<rect id="Filter Item" x="30" y="164" width="60" height="8" rx="4" fill="#E3E8F1"/>
+<rect id="Filter Item_2" x="122" y="164" width="60" height="8" rx="4" fill="#E3E8F1"/>
+<rect id="Filter Item_3" x="214" y="164" width="60" height="8" rx="4" fill="#E3E8F1"/>
+<rect id="Car Card" x="16" y="196" width="100" height="56" rx="12" fill="#F7F9FC"/>
+<rect id="Car Line" opacity="0.8" x="24" y="208" width="60" height="7" rx="3" fill="#0D1322"/>
+<rect id="Car Card_2" x="124" y="196" width="100" height="56" rx="12" fill="#F7F9FC"/>
+<rect id="Car Line_2" opacity="0.8" x="132" y="208" width="60" height="7" rx="3" fill="#0D1322"/>
+<rect id="Car Card_3" x="232" y="196" width="100" height="56" rx="12" fill="#F7F9FC"/>
+<rect id="Car Line_3" opacity="0.8" x="240" y="208" width="60" height="7" rx="3" fill="#0D1322"/>
+</g>
+</svg>

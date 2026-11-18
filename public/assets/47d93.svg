@@ -1,0 +1,22 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="196.56" height="152.88" viewBox="0 0 196.56 152.88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Map">
+<g clip-path="url(#clip0_0_413)">
+<rect width="196.56" height="152.88" rx="14.04" fill="#E3E9F1"/>
+<rect id="Road 0" y="49.92" width="196.56" height="5.46" rx="2.34" fill="white"/>
+<rect id="Road 1" y="99.84" width="196.56" height="4.68" rx="2.34" fill="white"/>
+<rect id="Road 2" x="54.6" width="4.68" height="152.88" rx="2.34" fill="white"/>
+<rect id="Road 3" x="132.6" width="4.68" height="152.88" rx="2.34" fill="white"/>
+<rect id="Road 4" x="-15.6" y="78" width="234" height="4.68" rx="2.34" transform="rotate(28 -15.6 78)" fill="white"/>
+<rect id="Road 5" x="31.2" y="132.6" width="202.8" height="3.9" rx="1.95" transform="rotate(-24 31.2 132.6)" fill="white"/>
+<rect id="Route" x="46.8" y="31.2" width="4.68" height="93.6" rx="2.34" fill="#E0714F" fill-opacity="0.9"/>
+<circle id="Pin" cx="48.36" cy="127.92" r="10.92" fill="#E0714F"/>
+<circle id="Pin Dot" cx="48.36" cy="127.92" r="3.9" fill="white"/>
+<circle id="Pin 2" cx="156" cy="31.2" r="7.8" fill="#5B7CFA"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_413">
+<rect width="196.56" height="152.88" rx="14.04" fill="white"/>
+</clipPath>
+</defs>
+</svg>

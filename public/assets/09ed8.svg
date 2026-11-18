@@ -1,0 +1,29 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="425" height="325" viewBox="0 0 425 325" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock">
+<g clip-path="url(#clip0_0_289)">
+<rect width="425" height="325" rx="20" fill="white"/>
+<rect id="Bar" width="425" height="42.5" fill="#F7F9FC"/>
+<circle id="Dot" cx="22.5" cy="21.25" r="5" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="40" cy="21.25" r="5" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="57.5" cy="21.25" r="5" fill="#E3E8F1"/>
+<rect id="Side" y="42.5" width="67.5" height="282.5" fill="#EFF2F7"/>
+<rect id="KPI" x="85" y="60" width="97.5" height="62.5" rx="15" fill="#0D1322"/>
+<rect id="KPI_2" x="195" y="60" width="97.5" height="62.5" rx="15" fill="#F7F9FC"/>
+<rect id="KPI_3" x="305" y="60" width="97.5" height="62.5" rx="15" fill="#F7F9FC"/>
+<rect id="Chart" x="85" y="137.5" width="317.5" height="162.5" rx="17.5" fill="#F7F9FC"/>
+<rect id="Bar_2" x="105" y="245" width="22.5" height="37.5" rx="7.5" fill="#E3E8F1"/>
+<rect id="Bar_3" x="145" y="217.5" width="22.5" height="65" rx="7.5" fill="#E3E8F1"/>
+<rect id="Bar_4" x="185" y="232.5" width="22.5" height="50" rx="7.5" fill="#E3E8F1"/>
+<rect id="Bar_5" x="225" y="195" width="22.5" height="87.5" rx="7.5" fill="#E3E8F1"/>
+<rect id="Bar_6" x="265" y="220" width="22.5" height="62.5" rx="7.5" fill="#E3E8F1"/>
+<rect id="Bar_7" x="305" y="175" width="22.5" height="107.5" rx="7.5" fill="#3D6BFF"/>
+<rect id="Bar_8" x="345" y="205" width="22.5" height="77.5" rx="7.5" fill="#E3E8F1"/>
+</g>
+<rect x="0.625" y="0.625" width="423.75" height="323.75" rx="19.375" stroke="#E3E8F1" stroke-width="1.25"/>
+</g>
+<defs>
+<clipPath id="clip0_0_289">
+<rect width="425" height="325" rx="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

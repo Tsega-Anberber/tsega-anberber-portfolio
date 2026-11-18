@@ -1,0 +1,34 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="340" height="260" viewBox="0 0 340 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock">
+<g clip-path="url(#clip0_0_416)">
+<rect width="340" height="260" rx="16" fill="white"/>
+<rect id="Bar" width="340" height="34" fill="#F7F9FC"/>
+<circle id="Dot" cx="18" cy="17" r="4" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="32" cy="17" r="4" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="46" cy="17" r="4" fill="#E3E8F1"/>
+<rect id="Hero" y="34" width="340" height="140" fill="#E7EEFF"/>
+<circle id="Sun" cx="270" cy="70" r="20" fill="#3D6BFF"/>
+<ellipse id="Hill" opacity="0.5" cx="60" cy="180" rx="100" ry="60" fill="#3D6BFF"/>
+<ellipse id="Hill 2" opacity="0.8" cx="250" cy="190" rx="130" ry="60" fill="#0D1322"/>
+<rect id="H1" x="24" y="60" width="130" height="14" rx="7" fill="#0D1322"/>
+<rect id="H2" x="24" y="82" width="100" height="14" rx="7" fill="#0D1322"/>
+<rect id="Search" x="24" y="150" width="292" height="40" rx="20" fill="white"/>
+<rect id="Search Btn" x="266" y="156" width="44" height="28" rx="14" fill="#3D6BFF"/>
+<rect id="Dest" x="16" y="204" width="100" height="48" rx="12" fill="#F7F9FC"/>
+<rect id="Dest Img" x="22" y="210" width="36" height="36" rx="8" fill="#E3E8F1"/>
+<rect id="Dest Line" opacity="0.8" x="64" y="218" width="40" height="7" rx="3" fill="#0D1322"/>
+<rect id="Dest_2" x="124" y="204" width="100" height="48" rx="12" fill="#F7F9FC"/>
+<rect id="Dest Img_2" x="130" y="210" width="36" height="36" rx="8" fill="#3D6BFF"/>
+<rect id="Dest Line_2" opacity="0.8" x="172" y="218" width="40" height="7" rx="3" fill="#0D1322"/>
+<rect id="Dest_3" x="232" y="204" width="100" height="48" rx="12" fill="#F7F9FC"/>
+<rect id="Dest Img_3" x="238" y="210" width="36" height="36" rx="8" fill="#E3E8F1"/>
+<rect id="Dest Line_3" opacity="0.8" x="280" y="218" width="40" height="7" rx="3" fill="#0D1322"/>
+</g>
+<rect x="0.5" y="0.5" width="339" height="259" rx="15.5" stroke="#E3E8F1"/>
+</g>
+<defs>
+<clipPath id="clip0_0_416">
+<rect width="340" height="260" rx="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>

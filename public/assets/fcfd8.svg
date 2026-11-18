@@ -1,0 +1,34 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="578" height="442" viewBox="0 0 578 442" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock">
+<g clip-path="url(#clip0_0_100)">
+<rect width="578" height="442" rx="27.2" fill="white"/>
+<rect id="Bar" width="578" height="57.8" fill="#F7F9FC"/>
+<circle id="Dot" cx="30.6" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="54.4" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="78.2" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<rect id="Hero" y="57.8" width="578" height="238" fill="#E7EEFF"/>
+<circle id="Sun" cx="459" cy="119" r="34" fill="#3D6BFF"/>
+<ellipse id="Hill" opacity="0.5" cx="102" cy="306" rx="170" ry="102" fill="#3D6BFF"/>
+<ellipse id="Hill 2" opacity="0.8" cx="425" cy="323" rx="221" ry="102" fill="#0D1322"/>
+<rect id="H1" x="40.8" y="102" width="221" height="23.8" rx="11.9" fill="#0D1322"/>
+<rect id="H2" x="40.8" y="139.4" width="170" height="23.8" rx="11.9" fill="#0D1322"/>
+<rect id="Search" x="40.8" y="255" width="496.4" height="68" rx="34" fill="white"/>
+<rect id="Search Btn" x="452.2" y="265.2" width="74.8" height="47.6" rx="23.8" fill="#3D6BFF"/>
+<rect id="Dest" x="27.2" y="346.8" width="170" height="81.6" rx="20.4" fill="#F7F9FC"/>
+<rect id="Dest Img" x="37.4" y="357" width="61.2" height="61.2" rx="13.6" fill="#E3E8F1"/>
+<rect id="Dest Line" opacity="0.8" x="108.8" y="370.6" width="68" height="11.9" rx="5.1" fill="#0D1322"/>
+<rect id="Dest_2" x="210.8" y="346.8" width="170" height="81.6" rx="20.4" fill="#F7F9FC"/>
+<rect id="Dest Img_2" x="221" y="357" width="61.2" height="61.2" rx="13.6" fill="#3D6BFF"/>
+<rect id="Dest Line_2" opacity="0.8" x="292.4" y="370.6" width="68" height="11.9" rx="5.1" fill="#0D1322"/>
+<rect id="Dest_3" x="394.4" y="346.8" width="170" height="81.6" rx="20.4" fill="#F7F9FC"/>
+<rect id="Dest Img_3" x="404.6" y="357" width="61.2" height="61.2" rx="13.6" fill="#E3E8F1"/>
+<rect id="Dest Line_3" opacity="0.8" x="476" y="370.6" width="68" height="11.9" rx="5.1" fill="#0D1322"/>
+</g>
+<rect x="0.85" y="0.85" width="576.3" height="440.3" rx="26.35" stroke="#E3E8F1" stroke-width="1.7"/>
+</g>
+<defs>
+<clipPath id="clip0_0_100">
+<rect width="578" height="442" rx="27.2" fill="white"/>
+</clipPath>
+</defs>
+</svg>

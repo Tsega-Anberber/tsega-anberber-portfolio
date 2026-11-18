@@ -1,0 +1,43 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="522" height="418" viewBox="0 0 522 418" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock" filter="url(#filter0_d_0_124)">
+<g clip-path="url(#clip0_0_124)">
+<rect x="40" y="22" width="442" height="338" rx="20.8" fill="white"/>
+<rect id="Bar" x="40" y="22" width="442" height="44.2" fill="#F7F9FC"/>
+<circle id="Dot" cx="63.4" cy="44.1" r="5.2" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="81.6" cy="44.1" r="5.2" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="99.8" cy="44.1" r="5.2" fill="#E3E8F1"/>
+<rect id="Hero" x="40" y="66.2" width="442" height="182" fill="#E7EEFF"/>
+<circle id="Sun" cx="391" cy="113" r="26" fill="#3D6BFF"/>
+<ellipse id="Hill" opacity="0.5" cx="118" cy="256" rx="130" ry="78" fill="#3D6BFF"/>
+<ellipse id="Hill 2" opacity="0.8" cx="365" cy="269" rx="169" ry="78" fill="#0D1322"/>
+<rect id="H1" x="71.2" y="100" width="169" height="18.2" rx="9.1" fill="#0D1322"/>
+<rect id="H2" x="71.2" y="128.6" width="130" height="18.2" rx="9.1" fill="#0D1322"/>
+<rect id="Search" x="71.2" y="217" width="379.6" height="52" rx="26" fill="white"/>
+<rect id="Search Btn" x="385.8" y="224.8" width="57.2" height="36.4" rx="18.2" fill="#3D6BFF"/>
+<rect id="Dest" x="60.8" y="287.2" width="130" height="62.4" rx="15.6" fill="#F7F9FC"/>
+<rect id="Dest Img" x="68.6" y="295" width="46.8" height="46.8" rx="10.4" fill="#E3E8F1"/>
+<rect id="Dest Line" opacity="0.8" x="123.2" y="305.4" width="52" height="9.1" rx="3.9" fill="#0D1322"/>
+<rect id="Dest_2" x="201.2" y="287.2" width="130" height="62.4" rx="15.6" fill="#F7F9FC"/>
+<rect id="Dest Img_2" x="209" y="295" width="46.8" height="46.8" rx="10.4" fill="#3D6BFF"/>
+<rect id="Dest Line_2" opacity="0.8" x="263.6" y="305.4" width="52" height="9.1" rx="3.9" fill="#0D1322"/>
+<rect id="Dest_3" x="341.6" y="287.2" width="130" height="62.4" rx="15.6" fill="#F7F9FC"/>
+<rect id="Dest Img_3" x="349.4" y="295" width="46.8" height="46.8" rx="10.4" fill="#E3E8F1"/>
+<rect id="Dest Line_3" opacity="0.8" x="404" y="305.4" width="52" height="9.1" rx="3.9" fill="#0D1322"/>
+</g>
+<rect x="40.65" y="22.65" width="440.7" height="336.7" rx="20.15" stroke="#E3E8F1" stroke-width="1.3"/>
+</g>
+<defs>
+<filter id="filter0_d_0_124" x="0" y="0" width="522" height="418" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="18"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.07 0 0 0 0 0.13 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_124"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_124" result="shape"/>
+</filter>
+<clipPath id="clip0_0_124">
+<rect x="40" y="22" width="442" height="338" rx="20.8" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,29 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="578" height="442" viewBox="0 0 578 442" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mock">
+<rect x="0.85" y="0.85" width="576.3" height="440.3" rx="26.35" fill="white"/>
+<rect x="0.85" y="0.85" width="576.3" height="440.3" rx="26.35" stroke="#E3E8F1" stroke-width="1.7"/>
+<rect id="Bar" width="578" height="57.8" fill="#F7F9FC"/>
+<circle id="Dot" cx="30.6" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<circle id="Dot_2" cx="54.4" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<circle id="Dot_3" cx="78.2" cy="28.9" r="6.8" fill="#E3E8F1"/>
+<rect id="Hero" y="57.8" width="578" height="204" fill="#0D1322"/>
+<circle id="Sun" cx="472.6" cy="136" r="47.6" fill="#3D6BFF"/>
+<rect id="Tower" x="306" y="142.8" width="68" height="119" rx="6.8" fill="#243049"/>
+<rect id="Tower 2" x="384.2" y="119" width="57.8" height="142.8" rx="6.8" fill="#172036"/>
+<rect id="H1" x="40.8" y="108.8" width="221" height="23.8" rx="11.9" fill="white"/>
+<rect id="H2" x="40.8" y="146.2" width="170" height="23.8" rx="11.9" fill="white"/>
+<rect id="CTA" x="40.8" y="193.8" width="108.8" height="37.4" rx="18.7" fill="#3D6BFF"/>
+<rect id="Card" x="27.2" y="282.2" width="170" height="142.8" rx="20.4" fill="#F7F9FC"/>
+<rect id="Card Img" x="37.4" y="292.4" width="149.6" height="68" rx="13.6" fill="#E3E8F1"/>
+<rect id="Card Line" opacity="0.8" x="37.4" y="374" width="102" height="11.9" rx="5.1" fill="#0D1322"/>
+<rect id="Card Line 2" x="37.4" y="397.8" width="64.6" height="10.2" rx="5.1" fill="#E3E8F1"/>
+<rect id="Card_2" x="210.8" y="282.2" width="170" height="142.8" rx="20.4" fill="#F7F9FC"/>
+<rect id="Card Img_2" x="221" y="292.4" width="149.6" height="68" rx="13.6" fill="#E7EEFF"/>
+<rect id="Card Line_2" opacity="0.8" x="221" y="374" width="102" height="11.9" rx="5.1" fill="#0D1322"/>
+<rect id="Card Line 2_2" x="221" y="397.8" width="64.6" height="10.2" rx="5.1" fill="#E3E8F1"/>
+<rect id="Card_3" x="394.4" y="282.2" width="170" height="142.8" rx="20.4" fill="#F7F9FC"/>
+<rect id="Card Img_3" x="404.6" y="292.4" width="149.6" height="68" rx="13.6" fill="#E3E8F1"/>
+<rect id="Card Line_3" opacity="0.8" x="404.6" y="374" width="102" height="11.9" rx="5.1" fill="#0D1322"/>
+<rect id="Card Line 2_3" x="404.6" y="397.8" width="64.6" height="10.2" rx="5.1" fill="#E3E8F1"/>
+</g>
+</svg>

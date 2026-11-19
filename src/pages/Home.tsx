@@ -1448,8 +1448,18 @@ export default function Home() {
     className="h-full w-full object-cove object-top"
   />
 </div>
-<div
-              className="absolute bg-[#3d6bff] border-12 border-[#0d1322] border-solid content-stretch flex flex-col items-center justify-center left-[1132px] rounded-[99px] size-[84px] top-[484px]"
+
+{/* Favorites Screen 2 */}
+<div className="absolute left-[480px] top-[115px] z-40 h-[400px] w-[180px] overflow-hidden rounded-[28px] border-2 border-[#2a3350] bg-[#0d1322] shadow-2xl rotate-[13deg]">
+  <img
+    src="/exploria/Favorites1.png"
+    alt="Exploria additional favorites screen"
+    className="h-full w-full object-cover object-top"
+  />
+</div>
+</div>
+            <div
+              className="absolute z-50 bg-[#3d6bff] border-12 border-[#0d1322] border-solid content-stretch flex flex-col items-center justify-center left-[1132px] rounded-[99px] size-[84px] top-[484px]"
               data-node-id="I1:1375;1:1100"
               data-name="Arrow Badge"
             >
@@ -1465,16 +1475,6 @@ export default function Home() {
                 />
               </div>
             </div>
-{/* Favorites Screen 2 */}
-<div className="absolute left-[480px] top-[115px] z-40 h-[400px] w-[180px] overflow-hidden rounded-[28px] border-2 border-[#2a3350] bg-[#0d1322] shadow-2xl rotate-[13deg]">
-  <img
-    src="/exploria/Favorites1.png"
-    alt="Exploria additional favorites screen"
-    className="h-full w-full object-cover object-top"
-  />
-</div>
-</div>
-            
           </a>
         </div>
         <div

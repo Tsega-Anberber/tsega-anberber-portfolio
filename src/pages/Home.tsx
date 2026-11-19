@@ -1079,7 +1079,7 @@ export default function Home() {
               style={{ fontVariationSettings: '"opsz" 14' }}
             >
               With a background in Architecture and Business Administration, I take a holistic view
-              — weighing user needs and business objectives together.
+              weighing user needs and business objectives together.
             </p>
           </div>
           <div
@@ -1382,7 +1382,7 @@ export default function Home() {
                 style={{ fontVariationSettings: '"opsz" 14' }}
               >
                 A mobile application concept for discovering cafes, restaurants and other places
-                around you — bringing place discovery and navigation into one experience.
+                around you bringing place discovery and navigation into one experience.
               </p>
               <div
                 className="content-stretch flex gap-[8px] items-center relative shrink-0"
@@ -1410,338 +1410,54 @@ export default function Home() {
               </div>
             </div>
             <div
-              className="bg-[#172036] h-[520px] overflow-clip relative rounded-[32px] shrink-0 w-[660px]"
-              data-node-id="I1:1375;1:1096"
-              data-name="Cover"
-            >
-              <div
-                className="absolute left-[110px] size-[440px] top-[50px]"
-                data-node-id="I1:1375;1:1097"
-                data-name="Glow"
-              >
-                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGlow} />
-              </div>
-              <ExploriaHome className="absolute bg-[#0d1322] border-2 border-[#2a3350] border-solid h-[620px] left-[70px] overflow-clip rounded-[52px] top-[72px] w-[300px]" />
-              <div
-                className="absolute bg-[#0d1322] border-2 border-[#2a3350] border-solid h-[620px] left-[330px] overflow-clip rounded-[52px] top-[140px] w-[300px]"
-                data-node-id="I1:1375;1:1099"
-                data-name="Phone Place"
-              >
-                <div
-                  className="absolute bg-[#f8f8f8] h-[604px] left-[6px] overflow-clip rounded-[44px] top-[6px] w-[284px]"
-                  data-node-id="I1:1375;1:1099;1:1033"
-                  data-name="Screen"
-                >
-                  <div
-                    className="absolute bg-gradient-to-b from-[#16314a] h-[296px] left-0 rounded-bl-[32px] rounded-br-[32px] to-[#b9703f] top-0 w-[284px]"
-                    data-node-id="I1:1375;1:1099;1:1034"
-                    data-name="Photo"
-                  />
-                  <div
-                    className="absolute h-[41.6px] left-[30px] top-[40px] w-[26px]"
-                    data-node-id="I1:1375;1:1099;1:1035"
-                    data-name="Plant 0"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgPlant0}
-                    />
-                  </div>
-                  <div
-                    className="absolute h-[32px] left-[80px] top-[16px] w-[20px]"
-                    data-node-id="I1:1375;1:1099;1:1036"
-                    data-name="Plant 1"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgPlant1}
-                    />
-                  </div>
-                  <div
-                    className="absolute h-[38.4px] left-[190px] top-[34px] w-[24px]"
-                    data-node-id="I1:1375;1:1099;1:1037"
-                    data-name="Plant 2"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgPlant2}
-                    />
-                  </div>
-                  <div
-                    className="absolute h-[48px] left-[236px] top-[60px] w-[30px]"
-                    data-node-id="I1:1375;1:1099;1:1038"
-                    data-name="Plant 3"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgPlant3}
-                    />
-                  </div>
-                  <div
-                    className="absolute left-[60px] size-[7px] top-[120px]"
-                    data-node-id="I1:1375;1:1099;1:1039"
-                    data-name="Light 0"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgLight0}
-                    />
-                  </div>
-                  <div
-                    className="absolute left-[120px] size-[7px] top-[150px]"
-                    data-node-id="I1:1375;1:1099;1:1040"
-                    data-name="Light 1"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgLight0}
-                    />
-                  </div>
-                  <div
-                    className="absolute left-[200px] size-[7px] top-[120px]"
-                    data-node-id="I1:1375;1:1099;1:1041"
-                    data-name="Light 2"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgLight0}
-                    />
-                  </div>
-                  <div
-                    className="absolute left-[240px] size-[7px] top-[170px]"
-                    data-node-id="I1:1375;1:1099;1:1042"
-                    data-name="Light 3"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgLight0}
-                    />
-                  </div>
-                  <div
-                    className="absolute bg-[rgba(139,74,34,0.8)] h-[40px] left-[70px] rounded-[12px] top-[214px] w-[160px]"
-                    data-node-id="I1:1375;1:1099;1:1043"
-                    data-name="Table"
-                  />
-                  <div
-                    className="absolute left-[18px] size-[36px] top-[50px]"
-                    data-node-id="I1:1375;1:1099;1:1044"
-                    data-name="Back"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgBack}
-                    />
-                  </div>
-                  <div
-                    className="absolute left-[26px] size-[20px] top-[58px]"
-                    data-node-id="I1:1375;1:1099;1:1045"
-                    data-name="Back Icon"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgBackIcon}
-                    />
-                  </div>
-                  <div
-                    className="absolute left-[208px] size-[52px] top-[268px]"
-                    data-node-id="I1:1375;1:1099;1:1047"
-                    data-name="Heart Button"
-                  >
-                    <div className="absolute inset-[-19.23%_-30.77%_-42.31%_-30.77%]">
-                      <img alt="" className="block max-w-none size-full" src={imgHeartButton} />
-                    </div>
-                  </div>
-                  <div
-                    className="absolute left-[222px] size-[24px] top-[282px]"
-                    data-node-id="I1:1375;1:1099;1:1048"
-                    data-name="Heart"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgHeart}
-                    />
-                  </div>
-                  <div
-                    className="absolute left-[20px] size-[14px] top-[318px]"
-                    data-node-id="I1:1375;1:1099;1:1050"
-                    data-name="Pin Icon"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgPinIcon}
-                    />
-                  </div>
-                  <p
-                    className="[word-break:break-word] absolute font-['DM_Sans:Medium'] font-medium leading-[normal] left-[38px] text-[#e0714f] text-[12px] text-left top-[318px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1053"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Mexico, Addis Ababa
-                  </p>
-                  <p
-                    className="[word-break:break-word] absolute font-['Bricolage_Grotesque:Bold'] font-bold leading-[normal] left-[20px] text-[#111] text-[28px] text-left top-[336px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1054"
-                    style={{ fontVariationSettings: '"opsz" 14, "wdth" 100' }}
-                  >
-                    Restaurant
-                  </p>
-                  <p
-                    className="[word-break:break-word] absolute font-['DM_Sans:Regular'] font-normal leading-[normal] left-[20px] text-[#8a8f9c] text-[12px] text-left top-[376px] w-[244px]"
-                    data-node-id="I1:1375;1:1099;1:1055"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Cozy rooftop dining with city views — a great spot for dinner with friends.
-                  </p>
-                  <div
-                    className="absolute bg-[#e8efff] h-[34px] left-[16px] rounded-[17px] top-[420px] w-[78px]"
-                    data-node-id="I1:1375;1:1099;1:1056"
-                    data-name="Chip Start"
-                  />
-                  <div
-                    className="absolute left-[28px] size-[14px] top-[430px]"
-                    data-node-id="I1:1375;1:1099;1:1057"
-                    data-name="Chip Icon"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgChipIcon}
-                    />
-                  </div>
-                  <p
-                    className="[word-break:break-word] absolute font-['DM_Sans:Medium'] font-medium leading-[normal] left-[48px] text-[#e0714f] text-[12px] text-left top-[429px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1059"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Featured · App concept
-                  </p>
-                  <div
-                    className="absolute bg-[#e8efff] h-[34px] left-[100px] rounded-[17px] top-[420px] w-[78px]"
-                    data-node-id="I1:1375;1:1099;1:1060"
-                    data-name="Chip Call"
-                  />
-                  <div
-                    className="absolute left-[112px] size-[14px] top-[430px]"
-                    data-node-id="I1:1375;1:1099;1:1061"
-                    data-name="Chip Icon"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgChipIcon1}
-                    />
-                  </div>
-                  <p
-                    className="[word-break:break-word] absolute font-['DM_Sans:Medium'] font-medium leading-[normal] left-[132px] text-[#e0714f] text-[12px] text-left top-[429px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1063"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Featured · App concept
-                  </p>
-                  <div
-                    className="absolute bg-[#e8efff] h-[34px] left-[184px] rounded-[17px] top-[420px] w-[78px]"
-                    data-node-id="I1:1375;1:1099;1:1064"
-                    data-name="Chip Save"
-                  />
-                  <div
-                    className="absolute left-[196px] size-[14px] top-[430px]"
-                    data-node-id="I1:1375;1:1099;1:1065"
-                    data-name="Chip Icon"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgChipIcon2}
-                    />
-                  </div>
-                  <p
-                    className="[word-break:break-word] absolute font-['DM_Sans:Medium'] font-medium leading-[normal] left-[216px] text-[#e0714f] text-[12px] text-left top-[429px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1067"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Featured · App concept
-                  </p>
-                  <p
-                    className="[word-break:break-word] absolute font-['Bricolage_Grotesque:Bold'] font-bold leading-[normal] left-[16px] text-[#111] text-[15px] text-left top-[474px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1068"
-                    style={{ fontVariationSettings: '"opsz" 14, "wdth" 100' }}
-                  >
-                    Other restaurants nearby
-                  </p>
-                  <div
-                    className="absolute bg-white h-[76px] left-[16px] rounded-[18px] shadow-[0px_6px_16px_0px_rgba(0,0,0,0.12)] top-[502px] w-[252px]"
-                    data-node-id="I1:1375;1:1099;1:1069"
-                    data-name="Nearby Card"
-                  />
-                  <div
-                    className="absolute bg-gradient-to-b from-[#3a5a66] left-[26px] rounded-[12px] size-[56px] to-[#c99a6a] top-[512px]"
-                    data-node-id="I1:1375;1:1099;1:1070"
-                    data-name="Nearby Photo"
-                  />
-                  <p
-                    className="[word-break:break-word] absolute font-['DM_Sans:Medium'] font-medium leading-[normal] left-[92px] text-[#111] text-[13px] text-left top-[516px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1071"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Kalidis Coffee
-                  </p>
-                  <p
-                    className="[word-break:break-word] absolute font-['DM_Sans:Regular'] font-normal leading-[normal] left-[92px] text-[#8a8f9c] text-[11px] text-left top-[536px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1072"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Mexico, Addis Ababa
-                  </p>
-                  <div
-                    className="absolute bg-[#fff0d6] h-[18px] left-[92px] rounded-[9px] top-[552px] w-[64px]"
-                    data-node-id="I1:1375;1:1099;1:1073"
-                    data-name="Badge"
-                  />
-                  <p
-                    className="-translate-x-1/2 [word-break:break-word] absolute font-['DM_Sans:Medium'] font-medium leading-[normal] left-[124px] text-[#c28a2c] text-[10px] text-center top-[554px] w-[64px]"
-                    data-node-id="I1:1375;1:1099;1:1074"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Restaurant
-                  </p>
-                  <div
-                    className="absolute bg-[#e0714f] h-[54px] left-[16px] rounded-[27px] shadow-[0px_10px_22px_0px_rgba(224,113,79,0.4)] top-[538px] w-[252px]"
-                    data-node-id="I1:1375;1:1099;1:1075"
-                    data-name="CTA"
-                  />
-                  <div
-                    className="absolute left-[84px] size-[18px] top-[556px]"
-                    data-node-id="I1:1375;1:1099;1:1076"
-                    data-name="CTA Icon"
-                  >
-                    <img
-                      alt=""
-                      className="absolute block inset-0 max-w-none size-full"
-                      src={imgCtaIcon}
-                    />
-                  </div>
-                  <p
-                    className="[word-break:break-word] absolute font-['DM_Sans:Medium'] font-medium leading-[normal] left-[108px] text-[14px] text-left text-white top-[556px] whitespace-nowrap"
-                    data-node-id="I1:1375;1:1099;1:1078"
-                    style={{ fontVariationSettings: '"opsz" 14' }}
-                  >
-                    Get Directions
-                  </p>
-                </div>
-              </div>
-            </div>
+  className="bg-[#172036] h-[520px] overflow-clip relative rounded-[32px] shrink-0 w-[660px]"
+  data-name="Exploria Screenshots"
+>
+  {/* Background glow */}
+  <div className="absolute left-[110px] size-[440px] top-[50px]">
+    <img
+      alt=""
+      className="absolute block inset-0 max-w-none size-full"
+      src={imgGlow}
+    />
+  </div>
+
+{/* Home Screen */}
+<div className="absolute left-[20px] top-[105px] z-10 h-[410px] w-[190px] overflow-hidden rounded-[28px] border-2 border-[#2a3350] bg-[#0d1322] shadow-2xl rotate-[-12deg]">
+  <img
+    src="/exploria/Home.png"
+    alt="Exploria home screen"
+    className="h-full w-full object-cover object-top"
+  />
+</div>
+
+{/* Favorites Screen */}
+<div className="absolute left-[165px] top-[65px] z-20 h-[430px] w-[190px] overflow-hidden rounded-[28px] border-2 border-[#2a3350] bg-[#0d1322] shadow-2xl rotate-[-5deg]">
+  <img
+    src="/exploria/Favorites.png"
+    alt="Exploria favorites screen"
+    className="h-full w-full object-cover object-top"
+  />
+</div>
+
+{/* Place Details Screen */}
+<div className="absolute left-[320px] top-[85px] z-30 h-[430px] w-[190px] overflow-hidden rounded-[28px] border-2 border-[#2a3350] bg-[#0d1322] shadow-2xl rotate-[7deg]">
+  <img
+    src="/exploria/PlaceDetials.png"
+    alt="Exploria place details screen"
+    className="h-full w-full object-cove object-top"
+  />
+</div>
+
+{/* Favorites Screen 2 */}
+<div className="absolute left-[480px] top-[115px] z-40 h-[400px] w-[180px] overflow-hidden rounded-[28px] border-2 border-[#2a3350] bg-[#0d1322] shadow-2xl rotate-[13deg]">
+  <img
+    src="/exploria/Favorites1.png"
+    alt="Exploria additional favorites screen"
+    className="h-full w-full object-cover object-top"
+  />
+</div>
+</div>
             <div
               className="absolute bg-[#3d6bff] border-12 border-[#0d1322] border-solid content-stretch flex flex-col items-center justify-center left-[1132px] rounded-[99px] size-[84px] top-[484px]"
               data-node-id="I1:1375;1:1100"
